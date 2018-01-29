@@ -11,4 +11,10 @@ list.insert(index, obj): 在index位置插入obj
 list.remove(obj): 移除某个值的第一个匹配项
 list.reverse() : 元素翻转
 list.sort():元素排序
+del list[1]
+del list[1:2] 删除
++ 组合多个列表 list1 + list2
+* 重复列表 list1 * n
+in 判断元素是否在列表中
+
 """
